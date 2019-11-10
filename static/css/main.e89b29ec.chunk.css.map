@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACE,cAAe,CACf,OAAQ,CACR,QAAS,CACT,sCAAgC,CAAhC,8BACF","file":"main.e89b29ec.chunk.css","sourcesContent":[".centered {\n  position: fixed;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}"]}

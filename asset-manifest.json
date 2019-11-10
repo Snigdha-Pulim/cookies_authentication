@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cookies_authentication/static/css/main.e89b29ec.chunk.css",
+    "main.js": "/cookies_authentication/static/js/main.a38308fd.chunk.js",
+    "main.js.map": "/cookies_authentication/static/js/main.a38308fd.chunk.js.map",
+    "runtime-main.js": "/cookies_authentication/static/js/runtime-main.fb02dcb0.js",
+    "runtime-main.js.map": "/cookies_authentication/static/js/runtime-main.fb02dcb0.js.map",
+    "static/js/2.5a3fa9f7.chunk.js": "/cookies_authentication/static/js/2.5a3fa9f7.chunk.js",
+    "static/js/2.5a3fa9f7.chunk.js.map": "/cookies_authentication/static/js/2.5a3fa9f7.chunk.js.map",
+    "index.html": "/cookies_authentication/index.html",
+    "precache-manifest.ca414d2d2d9d7b49589afa940398bb0c.js": "/cookies_authentication/precache-manifest.ca414d2d2d9d7b49589afa940398bb0c.js",
+    "service-worker.js": "/cookies_authentication/service-worker.js",
+    "static/css/main.e89b29ec.chunk.css.map": "/cookies_authentication/static/css/main.e89b29ec.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb02dcb0.js",
+    "static/js/2.5a3fa9f7.chunk.js",
+    "static/css/main.e89b29ec.chunk.css",
+    "static/js/main.a38308fd.chunk.js"
+  ]
+}
